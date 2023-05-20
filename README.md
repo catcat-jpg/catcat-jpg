@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I am Icy</h1>
-<h3 align="center">a computer nerd from Canada</h3>
+<h1 align="center">Hello, I'm Icy</h1>
+<h3 align="center">just another cat obsessed, computer nerd from Canada :)</h3>
 
 - 🌱 I’m currently learning **Python, CSS, HTML, Json**
 
